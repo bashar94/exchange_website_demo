@@ -1,4 +1,4 @@
-# exchange_website_demo
+# Exchange Website Demo
 A simple example of Product Exchange Site. It is a dynamic design using PHP. 
 
 
